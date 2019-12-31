@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400');
+
+html {font-size: 16px;}
+
+body {
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #333;
+}
+
+p {margin-bottom: 1.25em;}
+
+h1 {
+	font-size: 5rem;
+	letter-spacing: -2px;
+	text-indent: -3px
+}
+
+
+h2 {
+	font-size: 3.6rem;
+	letter-spacing: -1px
+}
+
+h3 {
+	font-size: 3rem
+}
+
+h4 {
+	font-size: 2.5rem
+}
+
+h5 {
+	font-size: 2rem
+}
+
+h6 {
+	font-size: 2rem
+}
+
+small, .text_small {font-size: 0.889em;}
+
+.nh-main-content {
+    min-height: 70%;
+    min-height: -webkit-calc(100% - 161.71875px);
+    min-height: -moz-calc(100% - 161.71875px);
+    min-height: calc(100% - 161.71875px);
+}
+
+// Navbar search
+.fa-search {
+    cursor: pointer;
+}
+
+code {
+    color: #fff !important;
+}
