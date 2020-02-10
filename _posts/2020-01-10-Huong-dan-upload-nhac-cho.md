@@ -1,5 +1,5 @@
 ---
-date: 2020-01-09
+date: 2020-01-10
 title: Hướng dẫn Upload nhạc chờ lên tổng đài 
 categories:
   - Tài-Liệu
@@ -13,11 +13,11 @@ Các bước tiến hành upload 1 file nhạc chờ lên tổng đài như sau
 
 + Truy cập vào trang quản trị tổng đài và chọn "Cấu hình cuộc gọi" --> "Danh sách nhạc chờ"
 
-![](/images/Upload-loi-chao/upload-loi-chao1.png)
+![](/images/Upload-nhac-cho/upload-nhac-cho1.png)
 
 + Tiếp theo chúng ta click vào "Thêm" để tiến hành upload file như ảnh bên dưới
 
-![](/images/Upload-loi-chao/upload-loi-chao2.png)
+![](/images/Upload-nhac-cho/upload-nhac-cho2.png)
 
 Như vậy là chúng ta đã thực hiện upload xong file nhạc chờ lên tổng đài
 

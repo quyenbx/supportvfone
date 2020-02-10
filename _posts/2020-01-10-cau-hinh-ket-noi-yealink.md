@@ -33,6 +33,9 @@ Bước 3 : Chúng ta truy cập vào trang quản trị của IP Phone Yealink 
 ![](/images/cau-hinh-yealink/yealink01.png)
 
 
+![](/images/cau-hinh-yealink/yealink03.png)
+
+
 Trong đó :
 
 - Line Active : Chọn Enabled
